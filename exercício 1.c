@@ -1,4 +1,8 @@
- int n, i=0;
+#include <stdio.h>
+#include<string.h>
+
+main() {
+int n, i=0;
    
   
   printf("digite um numero inteiro positivo\n");
